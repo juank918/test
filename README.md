@@ -1,4 +1,4 @@
-![ssch](../img1.png)
+<img src="../img1.png" width="500">
 
 # A07:2025 – Authentication Failures
 
