@@ -1,5 +1,7 @@
 <img src="../img/img1.png" width="500">
 
+<img src="img/img1.png" width="300">
+
 # A07:2025 – Authentication Failures
 
 ## Que es
