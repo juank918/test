@@ -32,11 +32,11 @@ El atacante aprovecha credenciales filtradas en incidentes anteriores y las prue
 **Paso 3 – Resultado o impacto**  
 Si alguna combinación funciona, logra entrar a cuentas reales, toma el control de los perfiles y puede actuar como si fuera el usuario legítimo, sin que el sistema detecte de inmediato la actividad maliciosa.
 
-<img src="img/img2.png">  
+<img src="img/img3.png">  
 
 #### Fuentes
 
-[seguridad cero ] https://academy.seguridadcero.com.pe/blog/a07-2025-authentication-failures 
+[seguridad cero ](https://academy.seguridadcero.com.pe/blog/a07-2025-authentication-failures)
 
 # Escenario 2
 
@@ -49,6 +49,8 @@ El atacante aprovecha esta práctica y prueba contraseñas filtradas o combinaci
 **Paso 3 – Resultado o impacto**  
 Si logra acertar, obtiene acceso a cuentas legítimas sin necesidad de vulnerar directamente el sistema. Por ello, se recomienda que las organizaciones dejen de depender solo de contraseñas e implementen autenticación multifactor (MFA) para fortalecer la seguridad
 
+###fuente 
+[owasp.org](https://owasp.org/Top10/2025/A07_2025-Authentication_Failures/)
 
 **Escenario n.° 3**
 
@@ -61,6 +63,8 @@ Otra persona utiliza el mismo navegador o equipo después de que el usuario orig
 **Paso 3 – Resultado o impacto**  
 El atacante obtiene acceso a cuentas o información sensible como si fuera el usuario legítimo. Este problema también puede ocurrir en oficinas, cuando una aplicación importante no se cierra adecuadamente y otra persona tiene acceso temporal a un equipo que quedó desbloqueado.
 
+###fuente 
+[owasp.org](https://owasp.org/Top10/2025/A07_2025-Authentication_Failures/)
 
 ## Cómo disminuir las brechas en los procesos de autenticación
 
@@ -71,3 +75,7 @@ Primero, es importante frenar los intentos automatizados desde el principio. Est
 Segundo, aunque una contraseña se vea comprometida, el acceso no debería concederse de inmediato. Por eso es fundamental usar autenticación multifactor, preferentemente métodos resistentes al phishing. También es necesario reforzar los procesos de recuperación de cuentas, especialmente el restablecimiento de contraseñas y los factores alternativos, ya que suelen ser puntos vulnerables.
 
 Finalmente, la protección no termina cuando el usuario inicia sesión. Es recomendable fortalecer la gestión de sesiones, por ejemplo, renovando y vinculando correctamente los tokens, limitando el tiempo para realizar acciones sensibles y monitoreando comportamientos inusuales, como el uso repetido de credenciales o accesos sospechosos.
+
+<img src="img/img4.jpeg">  
+###fuente 
+[indusface](https://www.indusface.com/learning/owasp-top-10-authentication-failures/#:~:text=OWASP%20A07%3A2025%20%E2%80%93%20Authentication%20Failures%20refers%20to%20weaknesses%20in%20how,unable%20to%20withstand%20automated%20abuse.)
