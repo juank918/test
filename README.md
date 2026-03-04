@@ -1,3 +1,5 @@
+![ssch](../img1.png)
+
 # A07:2025 – Authentication Failures
 
 ## Que es
