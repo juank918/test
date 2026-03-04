@@ -19,6 +19,8 @@ Estos problemas surgen cuando los mecanismos de inicio de sesión están mal dis
 -   **Falta de MFA:**  Ausencia o ineficacia de la autenticación de múltiples factores.
 -   **Almacenamiento inseguro:**  Contraseñas almacenadas en texto claro o con hashes débiles.
 
+<img src="img/img2.png">  
+
 # *Escenario 1*
 
 **Paso 1 – Contexto del sistema**  
@@ -29,6 +31,12 @@ El atacante aprovecha credenciales filtradas en incidentes anteriores y las prue
 
 **Paso 3 – Resultado o impacto**  
 Si alguna combinación funciona, logra entrar a cuentas reales, toma el control de los perfiles y puede actuar como si fuera el usuario legítimo, sin que el sistema detecte de inmediato la actividad maliciosa.
+
+<img src="img/img2.png">  
+
+#### Fuentes
+
+[seguridad cero ] https://academy.seguridadcero.com.pe/blog/a07-2025-authentication-failures 
 
 # Escenario 2
 
