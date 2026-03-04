@@ -1,6 +1,6 @@
 <img src="../img/img1.png" width="500">
 
-<img src="img/img1.png" width="300">
+<img src="img/img1.png">
 
 # A07:2025 – Authentication Failures
 
